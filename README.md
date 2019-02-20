@@ -1,1 +1,1 @@
-# python_beginner_training
+# Python Beginner Training
